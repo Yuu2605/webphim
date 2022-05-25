@@ -22,7 +22,17 @@ Route::get('/phim', [IndexController::class,'movie'])->name('movie');
 Route::get('/xem-phim', [IndexController::class,'watch'])->name('watch');
 Route::get('/episode', [IndexController::class,'episode'])->name('episode');
 
+Route::prefix('admin')->group(function () {
+    Auth::routes();
+
+});
+
+Route::get('/home', [HomeController::class, 'index'])->name('home');
 
 Auth::routes();
 
-Route::get('/home', [HomeController::class, 'index'])->name('home');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
