@@ -14,13 +14,13 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', [IndexController::class,'home']);
-Route::get('/danh-muc', [IndexController::class,'category']);
-Route::get('/the-loai', [IndexController::class,'genre']);
-Route::get('quoc-gia', [IndexController::class,'country']);
-Route::get('/phim', [IndexController::class,'movie']);
-Route::get('/xem-phim', [IndexController::class,'watch']);
-Route::get('/episode', [IndexController::class,'episode']);
+Route::get('/', [IndexController::class,'home'])->name('homepage');
+Route::get('/danh-muc', [IndexController::class,'category'])->name('category');
+Route::get('/the-loai', [IndexController::class,'genre'])->name('genre');
+Route::get('quoc-gia', [IndexController::class,'country'])->name('country');
+Route::get('/phim', [IndexController::class,'movie'])->name('movie');
+Route::get('/xem-phim', [IndexController::class,'watch'])->name('watch');
+Route::get('/episode', [IndexController::class,'episode'])->name('episode');
 
 
 Auth::routes();
