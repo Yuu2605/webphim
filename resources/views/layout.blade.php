@@ -13,15 +13,15 @@
       <link rel="shortcut icon" href="https://www.pngkey.com/png/detail/360-3601772_your-logo-here-your-company-logo-here-png.png" type="image/x-icon" />
       <meta name="revisit-after" content="1 days" />
       <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-      <title>Phim hay 2021 - Xem phim hay nhất</title>
+      <title>Phim hay 2022 - Xem phim hay nhất</title>
       <meta name="description" content="Phim hay 2021 - Xem phim hay nhất, xem phim online miễn phí, phim hot , phim nhanh" />
       <link rel="canonical" href="">
       <link rel="next" href="" />
       <meta property="og:locale" content="vi_VN" />
-      <meta property="og:title" content="Phim hay 2020 - Xem phim hay nhất" />
-      <meta property="og:description" content="Phim hay 2020 - Xem phim hay nhất, phim hay trung quốc, hàn quốc, việt nam, mỹ, hong kong , chiếu rạp" />
+      <meta property="og:title" content="Phim hay 2022 - Xem phim hay nhất" />
+      <meta property="og:description" content="Phim hay 2022 - Xem phim hay nhất, phim hay trung quốc, hàn quốc, việt nam, mỹ, hong kong , chiếu rạp" />
       <meta property="og:url" content="" />
-      <meta property="og:site_name" content="Phim hay 2021- Xem phim hay nhất" />
+      <meta property="og:site_name" content="Phim hay 2022- Xem phim hay nhất" />
       <meta property="og:image" content="" />
       <meta property="og:image:width" content="300" />
       <meta property="og:image:height" content="55" />
